@@ -6,7 +6,8 @@
 6.      tabla <-- 3 
 7.      valorLimite <-- 10 
 8.      mensajeFinal <-- obtenerTabla(tabla, valorLimite)
-9.      Escribir mensajeFinal 
+9.      Escribir mensajeFinal
+8.      mensajeFinal <-- obtenerTabla(tabla, valorLimite) 
 10.  fin funcion principal 
 11. // se define un método o función
 12.  funcion obtenerTabla(tabla, i; limite, i) : x 
